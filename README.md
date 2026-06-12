@@ -80,6 +80,8 @@ Watch the project demonstration here:
 
 [Customer Shopping Behavior Dashboard Demo](https://drive.google.com/file/d/1nU1iboPjz8A6_vLkwrwX4U970khpgMFI/view?usp=sharing)
 
+---
+
 ## 📈 Key Insights
 
 - Subscribers generated higher overall revenue compared to non-subscribers.
