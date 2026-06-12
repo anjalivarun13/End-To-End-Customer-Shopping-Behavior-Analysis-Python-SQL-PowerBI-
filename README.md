@@ -28,7 +28,7 @@ The project follows a complete analytics workflow using **Python, MySQL, and Pow
 
 | Category | Tools |
 |-----------|---------|
-| Data Cleaning & EDA | Python (Pandas, NumPy) |
+| Data Cleaning & EDA | Python (Pandas) |
 | Database & Analysis | MySQL |
 | Data Visualization | Power BI |
 | Version Control | Git & GitHub |
@@ -36,6 +36,9 @@ The project follows a complete analytics workflow using **Python, MySQL, and Pow
 ---
 
 ## 🔄 Project Workflow
+
+### Project Workflow Diagram
+![Project Workflow](https://github.com/anjalivarun13/End-To-End-Customer-Shopping-Behavior-Analysis-Python-SQL-PowerBI-/blob/main/Screenshot/Project%20Workflow.png)
 
 ### 1. Business Understanding
 Defined business objectives and key analytical questions related to customer purchasing behavior, product performance, and subscription trends.
@@ -70,6 +73,12 @@ Connected Power BI with MySQL to build an interactive dashboard for business rep
 ![Detail Page](https://github.com/anjalivarun13/End-To-End-Customer-Shopping-Behavior-Analysis-Python-SQL-PowerBI-/blob/main/Screenshot/Detail%20page.png)
 
 ---
+
+## 🎥 Dashboard Demo
+
+Watch the project demonstration here:
+
+[Customer Shopping Behavior Dashboard Demo](https://drive.google.com/file/d/1nU1iboPjz8A6_vLkwrwX4U970khpgMFI/view?usp=sharing)
 
 ## 📈 Key Insights
 
